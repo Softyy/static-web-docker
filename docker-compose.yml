@@ -4,4 +4,4 @@ services:
   static-web:
     build: .
     ports:
-     - "80:80"
+     - "8000:80"
